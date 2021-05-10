@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "lambda": "^0.10.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
